@@ -1,0 +1,16 @@
+To Run this api or to test this api we need:
+
+1. Postman or thunderclient
+2.mysql server
+3.mysql workbench
+
+to start with first install some dependencies after making package.json:
+1. npm i express
+2. npm i sequelize
+3. npm i mysql2
+4. npm i bodyparser
+4.npm i -D nodemon
+
+
+
+
